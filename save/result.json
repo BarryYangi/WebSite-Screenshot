@@ -1,0 +1,495 @@
+{
+    "data": [
+        {
+            "site": "github.com",
+            "data": [
+                {
+                    "data": [
+                        "save/github.com/2025-06-26_09-30-45.png",
+                        "save/github.com/2025-06-27_01-12-33.png",
+                        "save/github.com/2025-06-28_01-11-04.png",
+                        "save/github.com/2025-06-29_01-21-03.png",
+                        "save/github.com/2025-06-30_01-17-59.png",
+                        "save/github.com/2025-07-01_01-20-05.png",
+                        "save/github.com/2025-07-02_01-13-19.png",
+                        "save/github.com/2025-07-03_01-12-58.png",
+                        "save/github.com/2025-07-04_01-12-35.png",
+                        "save/github.com/2025-07-05_01-10-28.png",
+                        "save/github.com/2025-07-06_01-18-41.png",
+                        "save/github.com/2025-07-07_01-16-39.png",
+                        "save/github.com/2025-07-08_01-12-43.png",
+                        "save/github.com/2025-07-09_01-14-44.png",
+                        "save/github.com/2025-07-10_01-13-39.png",
+                        "save/github.com/2025-07-11_01-15-00.png"
+                    ],
+                    "lasted": "save/github.com/9b4edcba09e4a30385d10d5c0c24e850.png",
+                    "details": {
+                        "url": "https://github.com/BarryYangi",
+                        "timeout": 10,
+                        "real_time_out": 10,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 1
+                    },
+                    "rule": "9b4edcba09e4a30385d10d5c0c24e850"
+                }
+            ],
+            "rules": [
+                "9b4edcba09e4a30385d10d5c0c24e850"
+            ],
+            "lasted": "save/github.com/9b4edcba09e4a30385d10d5c0c24e850.png",
+            "raw_lasted": "save/github.com/2025-07-11_01-15-00.png"
+        },
+        {
+            "site": "digu.yct.ee",
+            "data": [
+                {
+                    "data": [
+                        "save/digu.yct.ee/2025-06-26_09-30-58.png",
+                        "save/digu.yct.ee/2025-06-27_01-12-45.png",
+                        "save/digu.yct.ee/2025-06-28_01-11-15.png",
+                        "save/digu.yct.ee/2025-06-29_01-21-18.png",
+                        "save/digu.yct.ee/2025-06-30_01-18-10.png",
+                        "save/digu.yct.ee/2025-07-01_01-20-16.png",
+                        "save/digu.yct.ee/2025-07-02_01-13-31.png",
+                        "save/digu.yct.ee/2025-07-03_01-13-10.png",
+                        "save/digu.yct.ee/2025-07-04_01-13-09.png",
+                        "save/digu.yct.ee/2025-07-05_01-10-40.png",
+                        "save/digu.yct.ee/2025-07-06_01-18-52.png",
+                        "save/digu.yct.ee/2025-07-07_01-16-51.png",
+                        "save/digu.yct.ee/2025-07-08_01-12-55.png",
+                        "save/digu.yct.ee/2025-07-09_01-14-56.png",
+                        "save/digu.yct.ee/2025-07-10_01-13-50.png",
+                        "save/digu.yct.ee/2025-07-11_01-15-12.png"
+                    ],
+                    "lasted": "save/digu.yct.ee/84ae5b5950b83d9201c2a8d8cdb95bce.png",
+                    "details": {
+                        "url": "https://digu.yct.ee/",
+                        "timeout": 10,
+                        "real_time_out": 5,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 0
+                    },
+                    "rule": "84ae5b5950b83d9201c2a8d8cdb95bce"
+                },
+                {
+                    "data": [
+                        "save/barry.ee/2025-06-26_09-31-23.png"
+                    ],
+                    "lasted": "save/barry.ee/8dab9b8357537c9e7aa1c138c2584256.png",
+                    "details": {
+                        "url": "https://barry.ee/personal/about/",
+                        "timeout": 10,
+                        "real_time_out": 10,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 1
+                    },
+                    "rule": "8dab9b8357537c9e7aa1c138c2584256"
+                }
+            ],
+            "rules": [
+                "84ae5b5950b83d9201c2a8d8cdb95bce",
+                "8dab9b8357537c9e7aa1c138c2584256"
+            ],
+            "lasted": "save/digu.yct.ee/84ae5b5950b83d9201c2a8d8cdb95bce.png",
+            "raw_lasted": "save/digu.yct.ee/2025-07-11_01-15-12.png"
+        },
+        {
+            "site": "www.barryi.me",
+            "data": [
+                {
+                    "data": [
+                        "save/www.barryi.me/2025-03-16_00-46-45.png",
+                        "save/www.barryi.me/2025-03-17_00-44-36.png",
+                        "save/www.barryi.me/2025-03-18_00-42-33.png",
+                        "save/www.barryi.me/2025-03-19_00-44-44.png",
+                        "save/www.barryi.me/2025-03-20_00-43-34.png",
+                        "save/www.barryi.me/2025-03-21_00-43-19.png",
+                        "save/www.barryi.me/2025-03-22_00-46-22.png",
+                        "save/www.barryi.me/2025-03-23_00-47-30.png",
+                        "save/www.barryi.me/2025-03-24_00-45-16.png",
+                        "save/www.barryi.me/2025-03-28_00-45-42.png",
+                        "save/www.barryi.me/2025-03-29_00-42-43.png",
+                        "save/www.barryi.me/2025-03-30_00-47-21.png",
+                        "save/www.barryi.me/2025-03-31_00-46-54.png",
+                        "save/www.barryi.me/2025-04-01_00-49-57.png",
+                        "save/www.barryi.me/2025-04-02_00-44-28.png",
+                        "save/www.barryi.me/2025-04-03_00-43-20.png",
+                        "save/www.barryi.me/2025-04-04_00-43-14.png",
+                        "save/www.barryi.me/2025-04-05_00-42-50.png",
+                        "save/www.barryi.me/2025-04-06_00-47-05.png",
+                        "save/www.barryi.me/2025-04-07_00-45-34.png",
+                        "save/www.barryi.me/2025-04-08_00-43-17.png",
+                        "save/www.barryi.me/2025-04-09_00-43-44.png",
+                        "save/www.barryi.me/2025-04-10_00-43-42.png",
+                        "save/www.barryi.me/2025-04-11_00-44-27.png",
+                        "save/www.barryi.me/2025-04-12_00-43-12.png",
+                        "save/www.barryi.me/2025-04-13_02-11-48.png",
+                        "save/www.barryi.me/2025-04-14_00-46-44.png"
+                    ],
+                    "lasted": "save/www.barryi.me/02549a124318fd9a2fc99c181cc617af.png",
+                    "details": {
+                        "url": "https://www.barryi.me/site/census/",
+                        "timeout": 10,
+                        "real_time_out": 10,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 1
+                    },
+                    "rule": "02549a124318fd9a2fc99c181cc617af"
+                }
+            ],
+            "rules": [
+                "02549a124318fd9a2fc99c181cc617af"
+            ],
+            "lasted": "save/www.barryi.me/02549a124318fd9a2fc99c181cc617af.png",
+            "raw_lasted": "save/www.barryi.me/2025-04-14_00-46-44.png"
+        },
+        {
+            "site": "www.youtube.com",
+            "data": [
+                {
+                    "rule": "495ba70fb44e36a1800708dd84de5309",
+                    "data": [
+                        "save/www.youtube.com/2025-06-26_09-31-34.png",
+                        "save/www.youtube.com/2025-06-27_01-13-21.png",
+                        "save/www.youtube.com/2025-06-28_01-11-51.png",
+                        "save/www.youtube.com/2025-06-29_01-21-52.png",
+                        "save/www.youtube.com/2025-06-30_01-18-44.png",
+                        "save/www.youtube.com/2025-07-01_01-20-50.png",
+                        "save/www.youtube.com/2025-07-02_01-14-07.png",
+                        "save/www.youtube.com/2025-07-03_01-13-46.png",
+                        "save/www.youtube.com/2025-07-04_01-13-45.png",
+                        "save/www.youtube.com/2025-07-05_01-11-13.png",
+                        "save/www.youtube.com/2025-07-06_01-19-26.png",
+                        "save/www.youtube.com/2025-07-07_01-17-27.png",
+                        "save/www.youtube.com/2025-07-08_01-13-32.png",
+                        "save/www.youtube.com/2025-07-09_01-15-31.png",
+                        "save/www.youtube.com/2025-07-10_01-14-26.png",
+                        "save/www.youtube.com/2025-07-11_01-15-47.png"
+                    ],
+                    "lasted": "save/www.youtube.com/495ba70fb44e36a1800708dd84de5309.png",
+                    "details": {
+                        "url": "https://www.youtube.com",
+                        "timeout": 10,
+                        "real_time_out": 5,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 2
+                    }
+                }
+            ],
+            "rules": [
+                "495ba70fb44e36a1800708dd84de5309"
+            ],
+            "lasted": "save/www.youtube.com/495ba70fb44e36a1800708dd84de5309.png",
+            "raw_lasted": "save/www.youtube.com/2025-07-11_01-15-47.png"
+        },
+        {
+            "site": "netlify.yct.ee",
+            "data": [
+                {
+                    "data": [
+                        "save/netlify.yct.ee/2025-06-26_09-31-50.png",
+                        "save/netlify.yct.ee/2025-06-27_01-13-38.png",
+                        "save/netlify.yct.ee/2025-06-28_01-12-08.png",
+                        "save/netlify.yct.ee/2025-06-29_01-22-09.png",
+                        "save/netlify.yct.ee/2025-06-30_01-18-59.png",
+                        "save/netlify.yct.ee/2025-07-01_01-21-06.png",
+                        "save/netlify.yct.ee/2025-07-02_01-14-23.png",
+                        "save/netlify.yct.ee/2025-07-03_01-14-04.png",
+                        "save/netlify.yct.ee/2025-07-04_01-14-01.png",
+                        "save/netlify.yct.ee/2025-07-05_01-11-28.png",
+                        "save/netlify.yct.ee/2025-07-06_01-19-41.png",
+                        "save/netlify.yct.ee/2025-07-07_01-17-45.png",
+                        "save/netlify.yct.ee/2025-07-08_01-13-48.png",
+                        "save/netlify.yct.ee/2025-07-09_01-15-46.png",
+                        "save/netlify.yct.ee/2025-07-10_01-14-42.png",
+                        "save/netlify.yct.ee/2025-07-11_01-16-01.png"
+                    ],
+                    "lasted": "save/netlify.yct.ee/3e7a1b48e9b9082f4c00d1b5ce803ad5.png",
+                    "details": {
+                        "url": "https://netlify.yct.ee/",
+                        "timeout": 15,
+                        "real_time_out": 10,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 0
+                    },
+                    "rule": "3e7a1b48e9b9082f4c00d1b5ce803ad5"
+                }
+            ],
+            "rules": [
+                "3e7a1b48e9b9082f4c00d1b5ce803ad5"
+            ],
+            "lasted": "save/netlify.yct.ee/3e7a1b48e9b9082f4c00d1b5ce803ad5.png",
+            "raw_lasted": "save/netlify.yct.ee/2025-07-11_01-16-01.png"
+        },
+        {
+            "site": "ward.smitten.top",
+            "data": [
+                {
+                    "data": [
+                        "save/ward.smitten.top/2025-06-26_09-33-05.png",
+                        "save/ward.smitten.top/2025-06-27_01-14-53.png",
+                        "save/ward.smitten.top/2025-06-28_01-13-24.png",
+                        "save/ward.smitten.top/2025-06-29_01-23-25.png",
+                        "save/ward.smitten.top/2025-06-30_01-20-13.png",
+                        "save/ward.smitten.top/2025-07-01_01-22-19.png",
+                        "save/ward.smitten.top/2025-07-02_01-15-38.png",
+                        "save/ward.smitten.top/2025-07-03_01-15-18.png",
+                        "save/ward.smitten.top/2025-07-04_01-15-18.png",
+                        "save/ward.smitten.top/2025-07-05_01-12-46.png",
+                        "save/ward.smitten.top/2025-07-06_01-21-01.png",
+                        "save/ward.smitten.top/2025-07-07_01-19-02.png",
+                        "save/ward.smitten.top/2025-07-08_01-15-05.png",
+                        "save/ward.smitten.top/2025-07-09_01-17-02.png",
+                        "save/ward.smitten.top/2025-07-10_01-15-59.png",
+                        "save/ward.smitten.top/2025-07-11_01-17-18.png"
+                    ],
+                    "lasted": "save/ward.smitten.top/ff6b569dc2cf6721596a5caf4b3563e9.png",
+                    "details": {
+                        "url": "https://ward.smitten.top/",
+                        "timeout": 10,
+                        "real_time_out": 10,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 0
+                    },
+                    "rule": "ff6b569dc2cf6721596a5caf4b3563e9"
+                }
+            ],
+            "rules": [
+                "ff6b569dc2cf6721596a5caf4b3563e9"
+            ],
+            "lasted": "save/ward.smitten.top/ff6b569dc2cf6721596a5caf4b3563e9.png",
+            "raw_lasted": "save/ward.smitten.top/2025-07-11_01-17-18.png"
+        },
+        {
+            "site": "run.yct.ee",
+            "data": [
+                {
+                    "data": [
+                        "save/run.yct.ee/2025-06-26_09-33-31.png",
+                        "save/run.yct.ee/2025-06-27_01-15-18.png",
+                        "save/run.yct.ee/2025-06-28_01-13-49.png",
+                        "save/run.yct.ee/2025-06-29_01-23-49.png",
+                        "save/run.yct.ee/2025-06-30_01-20-38.png",
+                        "save/run.yct.ee/2025-07-01_01-22-44.png",
+                        "save/run.yct.ee/2025-07-02_01-16-03.png",
+                        "save/run.yct.ee/2025-07-03_01-15-43.png",
+                        "save/run.yct.ee/2025-07-04_01-15-43.png",
+                        "save/run.yct.ee/2025-07-05_01-13-11.png",
+                        "save/run.yct.ee/2025-07-06_01-21-26.png",
+                        "save/run.yct.ee/2025-07-07_01-19-27.png",
+                        "save/run.yct.ee/2025-07-08_01-15-30.png",
+                        "save/run.yct.ee/2025-07-09_01-17-27.png",
+                        "save/run.yct.ee/2025-07-10_01-16-24.png",
+                        "save/run.yct.ee/2025-07-11_01-17-42.png"
+                    ],
+                    "lasted": "save/run.yct.ee/71ef7a6d60155bb276909b13fc33fccc.png",
+                    "details": {
+                        "url": "https://run.yct.ee/",
+                        "timeout": 10,
+                        "real_time_out": 10,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 0
+                    },
+                    "rule": "71ef7a6d60155bb276909b13fc33fccc"
+                }
+            ],
+            "rules": [
+                "71ef7a6d60155bb276909b13fc33fccc"
+            ],
+            "lasted": "save/run.yct.ee/71ef7a6d60155bb276909b13fc33fccc.png",
+            "raw_lasted": "save/run.yct.ee/2025-07-11_01-17-42.png"
+        },
+        {
+            "site": "uptime.yct.ee",
+            "data": [
+                {
+                    "data": [
+                        "save/uptime.yct.ee/2025-06-26_09-34-05.png",
+                        "save/uptime.yct.ee/2025-06-27_01-15-53.png",
+                        "save/uptime.yct.ee/2025-06-28_01-14-23.png",
+                        "save/uptime.yct.ee/2025-06-29_01-24-24.png",
+                        "save/uptime.yct.ee/2025-06-30_01-21-12.png",
+                        "save/uptime.yct.ee/2025-07-01_01-23-18.png",
+                        "save/uptime.yct.ee/2025-07-02_01-16-37.png",
+                        "save/uptime.yct.ee/2025-07-03_01-16-18.png",
+                        "save/uptime.yct.ee/2025-07-04_01-16-17.png",
+                        "save/uptime.yct.ee/2025-07-05_01-13-46.png",
+                        "save/uptime.yct.ee/2025-07-06_01-22-01.png",
+                        "save/uptime.yct.ee/2025-07-07_01-20-01.png",
+                        "save/uptime.yct.ee/2025-07-08_01-16-05.png",
+                        "save/uptime.yct.ee/2025-07-09_01-18-02.png",
+                        "save/uptime.yct.ee/2025-07-10_01-16-59.png",
+                        "save/uptime.yct.ee/2025-07-11_01-18-17.png"
+                    ],
+                    "lasted": "save/uptime.yct.ee/dd4f9b62b4b6c25cdc6c7abac419a803.png",
+                    "details": {
+                        "url": "https://uptime.yct.ee/status/i",
+                        "timeout": 10,
+                        "real_time_out": 10,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 1
+                    },
+                    "rule": "dd4f9b62b4b6c25cdc6c7abac419a803"
+                }
+            ],
+            "rules": [
+                "dd4f9b62b4b6c25cdc6c7abac419a803"
+            ],
+            "lasted": "save/uptime.yct.ee/dd4f9b62b4b6c25cdc6c7abac419a803.png",
+            "raw_lasted": "save/uptime.yct.ee/2025-07-11_01-18-17.png"
+        },
+        {
+            "site": "www.fast.com",
+            "data": [
+                {
+                    "data": [
+                        "save/www.fast.com/2025-06-26_09-34-12.png",
+                        "save/www.fast.com/2025-06-27_01-16-00.png",
+                        "save/www.fast.com/2025-06-28_01-14-30.png",
+                        "save/www.fast.com/2025-06-29_01-24-31.png",
+                        "save/www.fast.com/2025-06-30_01-21-20.png",
+                        "save/www.fast.com/2025-07-01_01-23-25.png",
+                        "save/www.fast.com/2025-07-02_01-16-44.png",
+                        "save/www.fast.com/2025-07-03_01-16-25.png",
+                        "save/www.fast.com/2025-07-04_01-16-25.png",
+                        "save/www.fast.com/2025-07-05_01-13-53.png",
+                        "save/www.fast.com/2025-07-06_01-22-08.png",
+                        "save/www.fast.com/2025-07-07_01-20-08.png",
+                        "save/www.fast.com/2025-07-08_01-16-12.png",
+                        "save/www.fast.com/2025-07-09_01-18-09.png",
+                        "save/www.fast.com/2025-07-10_01-17-06.png",
+                        "save/www.fast.com/2025-07-11_01-18-24.png"
+                    ],
+                    "lasted": "save/www.fast.com/5be0d4bdb8175fccf407a9f2b9ba7efe.png",
+                    "details": {
+                        "url": "https://www.fast.com",
+                        "timeout": 10,
+                        "real_time_out": 5,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 2
+                    },
+                    "rule": "5be0d4bdb8175fccf407a9f2b9ba7efe"
+                }
+            ],
+            "rules": [
+                "5be0d4bdb8175fccf407a9f2b9ba7efe"
+            ],
+            "lasted": "save/www.fast.com/5be0d4bdb8175fccf407a9f2b9ba7efe.png",
+            "raw_lasted": "save/www.fast.com/2025-07-11_01-18-24.png"
+        },
+        {
+            "site": "www.google.com",
+            "data": [
+                {
+                    "data": [
+                        "save/www.google.com/2025-06-26_09-34-19.png",
+                        "save/www.google.com/2025-06-27_01-16-07.png",
+                        "save/www.google.com/2025-06-28_01-14-37.png",
+                        "save/www.google.com/2025-06-29_01-24-38.png",
+                        "save/www.google.com/2025-06-30_01-21-27.png",
+                        "save/www.google.com/2025-07-01_01-23-32.png",
+                        "save/www.google.com/2025-07-02_01-16-51.png",
+                        "save/www.google.com/2025-07-03_01-16-32.png",
+                        "save/www.google.com/2025-07-04_01-16-32.png",
+                        "save/www.google.com/2025-07-05_01-14-00.png",
+                        "save/www.google.com/2025-07-06_01-22-15.png",
+                        "save/www.google.com/2025-07-07_01-20-15.png",
+                        "save/www.google.com/2025-07-08_01-16-19.png",
+                        "save/www.google.com/2025-07-09_01-18-16.png",
+                        "save/www.google.com/2025-07-10_01-17-14.png",
+                        "save/www.google.com/2025-07-11_01-18-31.png"
+                    ],
+                    "lasted": "save/www.google.com/c5b0e0f3e02a5be4cfdfbd154761f39a.png",
+                    "details": {
+                        "url": "https://www.google.com",
+                        "timeout": 10,
+                        "real_time_out": 5,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 2
+                    },
+                    "rule": "c5b0e0f3e02a5be4cfdfbd154761f39a"
+                }
+            ],
+            "rules": [
+                "c5b0e0f3e02a5be4cfdfbd154761f39a"
+            ],
+            "lasted": "save/www.google.com/c5b0e0f3e02a5be4cfdfbd154761f39a.png",
+            "raw_lasted": "save/www.google.com/2025-07-11_01-18-31.png"
+        },
+        {
+            "site": "barry.ee",
+            "data": [
+                {
+                    "data": [
+                        "save/barry.ee/2025-06-27_01-13-10.png",
+                        "save/barry.ee/2025-06-28_01-11-39.png",
+                        "save/barry.ee/2025-06-29_01-21-41.png",
+                        "save/barry.ee/2025-06-30_01-18-33.png",
+                        "save/barry.ee/2025-07-01_01-20-39.png",
+                        "save/barry.ee/2025-07-02_01-13-56.png",
+                        "save/barry.ee/2025-07-03_01-13-35.png",
+                        "save/barry.ee/2025-07-04_01-13-34.png",
+                        "save/barry.ee/2025-07-05_01-11-02.png",
+                        "save/barry.ee/2025-07-06_01-19-15.png",
+                        "save/barry.ee/2025-07-07_01-17-16.png",
+                        "save/barry.ee/2025-07-08_01-13-21.png",
+                        "save/barry.ee/2025-07-09_01-15-20.png",
+                        "save/barry.ee/2025-07-10_01-14-13.png",
+                        "save/barry.ee/2025-07-11_01-15-34.png"
+                    ],
+                    "lasted": "save/barry.ee/8dab9b8357537c9e7aa1c138c2584256.png",
+                    "details": {
+                        "url": "https://barry.ee/personal/about/",
+                        "timeout": 10,
+                        "real_time_out": 10,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 1
+                    },
+                    "rule": "8dab9b8357537c9e7aa1c138c2584256"
+                }
+            ],
+            "rules": [
+                "8dab9b8357537c9e7aa1c138c2584256"
+            ],
+            "lasted": "save/barry.ee/8dab9b8357537c9e7aa1c138c2584256.png",
+            "raw_lasted": "save/barry.ee/2025-07-11_01-15-34.png"
+        }
+    ],
+    "sites": [
+        "github.com",
+        "digu.yct.ee",
+        "www.barryi.me",
+        "www.youtube.com",
+        "netlify.yct.ee",
+        "ward.smitten.top",
+        "run.yct.ee",
+        "uptime.yct.ee",
+        "www.fast.com",
+        "www.google.com",
+        "barry.ee"
+    ]
+}
